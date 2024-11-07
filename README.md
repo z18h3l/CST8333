@@ -1,40 +1,28 @@
 java c
 CST8333 Programming Language Research Project
-Research Assignment 1 – See Blackboard for due date
+Research Assignment 2 – See Blackboard for due date
 Refer to the Course Section Information (CSI) document posted in Blackboard under Course Information for additional requirements common to all assessments.
 Tasks
 Complete each of the tasks below, you may use bullet style. rather than essay style. for your MS Word document.
 The tasks titles themselves can be used as headings in your MS Word document.
-1. Language Research
-· Find three websites, updated within the past 1 year, that list and rank popular programming languages
-· Provide a brief description in your own words for each website. (One sentence if possible)
-· Document the websites using IEEE reference style. format.
-· How do you know that each website comes from a reputable source?
-2. Language Selection
-· What programming language will you study?
-· Why have you decided to study it?
-· How does the language align with your career goals?
-3. Unit Testing Research
-· Find two websites that detail framework-based unit testing in your language of study.
-· Provide a brief description of each website.
-· Document the websites using IEEE reference style. format.
-· Indicate clearly what unit test framework you will use in the course and state why.
-· Note: In rare cases, a programming language may not have a unit-testing framework available that is free for use. If this is the case for your selected programming language, you will need to provide proof in the form. of referenced resources. Additionally, in later assessments, you will need to write your own testing code without a framework, providing references to your sources that there is no unit-testing framework each time.
-4. Development Tools: Platform, Tool availability, Licensing
-· Provide the exact operating system, programming language and development tools (IDE) you are intending to use for this course, with detail including the version or build number for each of the operating system, IDE and programming language. Most operating systems have a system information tool, IDE’s will usually have an About-dialog, and most languages have some way to print the version either within code or from the command line. Screen shots of any of these are permitted and should be copy and pasted into your MS Word document. For example, “Windows 10 Pro Version 10.0.17763 Build 17763, Python 3.8.4, Visual Studio Code 1.46.0”
-· Is the development software free for use, or will you obtain a license to use it legally? I.e. read the licensing.
-· It is recommended that you focus on locating tools and resources that are free for use / free for individual use, rather than purchasing development tools at an additional cost.
-5. WBS and Gantt Chart for Practical Project Part 1
+Caution: Many students will find Practical Project Part 2 to be the most challenging activity in the course, budget your time here in this activity quickly (be brief), and then start your research, learning, and start working on Practical Project Part 2 early.
+1. Development Environment Changes
+· If your development environment has changed because of your learning, document it here with version numbers, otherwise report that there are no changes to the development environment.
+· Large changes, like a different programming language, can be done at this point in the course before starting Practical Project Part 2. Moderate changes, like changing project type between web framework, desktop GUI, mobile, or console can also be done at this point in the course. After Practical Project Part 2 is completed, it will be very difficult to make changes to programming language or project type. Consult your professor promptly for guidance if you have any doubts.
+· Note: You may realize that your project may be too ambitious (advanced frameworks) for you to complete the coursework as you proceed with Practical Project Part 2; you are permitted to reduce your project to a console-based program and / or change to a different programming language than you used earlier while still meeting the requirements for Practical Project Part 2.
+2. Research and Learning Resources
+· Research locating learning resources and examples on N-Layered and/or Model View Controller (MVC) architectures to determine what architecture you will use in your Practical Project Part 2 project. Also, see reference examples provided in Brightspace, which were created in Java.
+3. WBS and Gantt Chart for Practical Project Part 2
 · Review the handout provided with WBS and Gantt Requirements, Examples, and Resources.
-· Review the handout for Practical Project Part 1.
-· Create a brief Work Breakdown Structure (WBS) to decompose the Practical Project Part 1 tasks into smaller sub-tasks.
+· Review the handout for Practical Project Part 2.
+· Create a brief Work Breakdown Structure (WBS) to decompose the Practical Project Part 2 tasks into smaller sub-tasks.
 · Create a Gantt Chart in MS Project or Project Libra based on your WBS;
 o Indent to create sub-tasks;
 o Link sequential tasks;
-o Create one milestone for “Practical Project Part 1 Delivered”, set with the due date
+o Create one milestone for “Practical Project Part 2 Delivered”, set with the due date
 o Add your full name in the Resource column adjacent to at least one task or sub-task.
 · Insert a screen shot of your Gantt chart into this section of the MS Word document.
-· Submit the Original Gantt Chart file, along side your MS Project document.
+· Submit the Original Gantt Chart file, along side your MS Word document.
 Your single MS Word document should have this general format
 · Cover Page
 · Headings as above with content addressing the questions and tasks including screen shots where applicable.
@@ -42,35 +30,27 @@ Your single MS Word document should have this general format
 Submission Requirements
 · Upload your single MS Word document and your Gantt chart.
 · Submitting any other format other than .doc or docx for your MS-Word document will result in zero for this assignment. Open-Office/Libra-Office users save-as… MS Word.
-· Your Gantt chart must be submitted as either Microsoft Project or ProjectLibre with file extension .mpp or .pod (respectively), any other file format will score zero for this part.
-· Ensure your ful代 写CST8333 Programming Language Research Project Research Assignment 1C/C++
-代做程序编程语言l name is included in all materials as asked; you will lose marks if your full name is not included on a cover page as the first page of the document.
-Grading (12 Points Total)
+· Your Gantt chart must be submitted as either Microsoft Project or ProjectLibre with file extension .mpp or .pod (respectively), any other file format will score zero for this part. If the original file is missing, i.e. there is a screen shot only, you may loose marks.
+· Ensure your full name is included in all materials as asked; you will lose marks if 代 写CST8333 Programming Language Research Project Research Assignment 2C/C++
+代做程序编程语言your full name is not included on a cover page as the first page of the document.
+Grading (8 Points Total)
 Note: A mark deduction of 3 points will be applied if you do not have a cover page with your name in it.
 Criteria
 Missing / Poorly done (0)
 Below Expectations (1)
 Meets Expectations (2)
-Language Research
+Development Environment
 Missing or done very poorly or wrong file type.
-Does not meet all of the requested requirements: 3 websites on programming language popularity, IEEE format, description, reputable source.
-Meets all of the requested requirements: 3 websites on programming language popularity, IEEE format, description, reputable source.
-Language Selection
+Does not meet all of the requested requirements: If there are changes the new operating system, tools, and language, (etc.) student lists and documents with version numbers. Alternatively, student provides a statement that there are no changes to the development environment.
+Meets all of the requested requirements: If there are changes the new operating system, tools, and language, (etc.) student lists and documents with version numbers. Alternatively, student provides a statement that there are no changes to the development environment.
+Research and Learning Resources
 Missing or done very poorly or wrong file type.
-Does not meet all of the requested requirements:  programming language, why study it, how aligns to career
-Meets all of the requested requirements: programming language, why study it, how aligns to career
-Unit Testing Research
-Missing or done very poorly or wrong file type.
-Does not meet all of the requested requirements:  2 websites, IEEE format, description, unit test framework, why
-Meets all of the requested requirements: 2 websites, IEEE format, description, unit test framework, why
-Tool Availability Research and Documentation
-Missing or done very poorly or wrong file type.
-Does not meet all of the requested requirements:  Operating System, Programming Language, and Tools (IDE), each item with exact version or build numbers.
-Meets all of the requested requirements: Operating System, Programming Language, and Tools (IDE), each item with exact version or build numbers.
+Student lists learning resources related to the specified architectures however does not use IEEE reference style.
+Student lists learning resources related to the specified architectures, and uses IEEE reference style.
 WBS 
 Missing or done very poorly or wrong file type.
-Does not meet all of the requested requirements: breaks down the tasks from Practical Project Part 1 into sub-tasks, no dates or times are used, sub-tasks are indented, has expected numbering format.
-Meets all of the requested requirements: breaks down the tasks from Practical Project Part 1 into sub-tasks, no dates or times are used, sub-tasks are indented, has expected numbering format.
+Does not meet all of the requested requirements: breaks down the tasks from Practical Project Part 2 into sub-tasks, no dates or times are used, sub-tasks are indented, has expected numbering format.
+Meets all of the requested requirements: breaks down the tasks from Practical Project Part 2 into sub-tasks, no dates or times are used, sub-tasks are indented, has expected numbering format.
 Gantt 
 Missing or done very poorly or wrong file type.
 Does not meet all of the requested requirements: original Gantt chart file provided, tasks and sub-tasks match WBS, sub-tasks indented, time estimates in days, sequential tasks linked, one milestone, and student name as resource.
